@@ -8,5 +8,4 @@
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-![preview img](https://github.com/noelmthembu/Random-Password-Generator/assets/109946871/e6df2c61-3013-4512-b12f-08bc7049d894)
-
+![preview_img](https://github.com/noelmthembu/Noel-Mthembu-Portfolio/assets/109946871/de9ebef4-2919-4bd6-9ca9-10c917c22d0c)
