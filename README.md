@@ -1,5 +1,5 @@
 # Noel-Mthembu-Portfolio
-## [Live Preview](https://noelmthembu.github.io/Random-Password-Generator/)
+## [Live Preview](https://noelmthembu.github.io/Noel-Mthembu-Portfolio/)
 ### My Personal Portfolio website
 
 - Responsive Personal Portfolio Website Using HTML CSS & JavaScript
